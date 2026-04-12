@@ -1,0 +1,24 @@
+{
+  "depends": "",
+  "description": "Sends Wake-On-LAN packets when recording etc.",
+  "legacy_setup": {
+    "description": "Sends Wake-On-LAN packets when recording etc.",
+    "has_setup_translate": true,
+    "name": "enigma2-plugin-extensions-wakeonlan",
+    "package_data": [],
+    "package_dir_value": "",
+    "packages": [],
+    "pkg": "Extensions.WakeOnLan",
+    "version": "0.1"
+  },
+  "module_dir_name": "WakeOnLan",
+  "package_name": "enigma2-plugin-extensions-wakeonlan",
+  "plugin_group": "extensions",
+  "source_repo_branch": "python3",
+  "source_repo_name": "e2openplugin-WakeOnLan",
+  "source_repo_url": "https://github.com/E2OpenPlugins/e2openplugin-WakeOnLan.git",
+  "target_repo_branch": "main",
+  "target_repo_name": "WakeOnLan",
+  "target_repo_url": "git@github.com:oe-alliance-plugins/WakeOnLan.git",
+  "version": "0.1"
+}
