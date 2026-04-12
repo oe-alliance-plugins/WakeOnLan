@@ -1,4 +1,3 @@
-import enigma
 from . import wol
 from Screens.Screen import Screen
 from Components.ActionMap import ActionMap

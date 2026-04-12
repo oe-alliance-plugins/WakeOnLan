@@ -1,5 +1,3 @@
-import time
-import os
 from Plugins.Plugin import PluginDescriptor
 from . import wol
 import enigma
