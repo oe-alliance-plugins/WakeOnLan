@@ -5,6 +5,7 @@ from . import wol
 import enigma
 from . import _
 
+
 def configure(session, iface=None, **kwargs):
     try:
         from . import ui
