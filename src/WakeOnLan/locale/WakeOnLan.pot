@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the WakeOnLan package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: WakeOnLan\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-15 15:10+0200\n"
+"POT-Creation-Date: 2026-04-12 21:03+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,50 +17,50 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../ui.py:59
+#: ../ui.py:60
 msgid "Add"
 msgstr ""
 
-#: ../ui.py:56
+#: ../ui.py:57
 msgid "Cancel"
 msgstr ""
 
-#: ../plugin.py:43
+#: ../plugin.py:49
 msgid "Configure Wake-On-LAN"
 msgstr ""
 
-#: ../plugin.py:47
+#: ../plugin.py:54
 msgid "Configure Wake-on-LAN"
 msgstr ""
 
-#: ../ui.py:99
+#: ../ui.py:104
 msgid "Failed to save configuration"
 msgstr ""
 
-#: ../ui.py:57
+#: ../ui.py:58
 msgid "Ok"
 msgstr ""
 
-#: ../ui.py:58
+#: ../ui.py:59
 msgid "Remove"
 msgstr ""
 
-#: ../plugin.py:32
+#: ../plugin.py:37
 msgid "Send WOL packet on PVR and recording start"
 msgstr ""
 
-#: ../plugin.py:51
+#: ../plugin.py:59
 msgid "Send Wake-On-LAN"
 msgstr ""
 
-#: ../plugin.py:55
+#: ../plugin.py:64
 msgid "Send Wake-on-LAN"
 msgstr ""
 
-#: ../ui.py:60
+#: ../ui.py:61
 msgid "The list of MAC addresses above will be sent a WOL event."
 msgstr ""
 
-#: ../ui.py:54
+#: ../ui.py:55
 msgid "Wake-On-LAN Configuration"
 msgstr ""
